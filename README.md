@@ -1,5 +1,5 @@
 # Responsive Sidebar 👨🏽‍💻
-### Sidebar responsivo com algumas opções, botão para trocar a cor do tema, Logout e barra de pesquisa.
+### Sidebar responsivo com algumas opções, botão de temas, Logout e barra de pesquisa.
 <hr>
 
 <img width="30px" src="https://user-images.githubusercontent.com/100818355/193979181-34b723e8-cbaa-4cef-961a-38e7ba787a38.png" title = "JAVASCRIPT"/> Javascript usei alguns conceitos básicos de addEventListener e DOM.<br><br>
